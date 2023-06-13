@@ -1,6 +1,6 @@
 <h1 align="center">
    Another Journey 
-</h1>
+</h6>
 <h4 align="center">Discord Bot that can create AI images like midJourney - Free</h4>
 <br>
 
